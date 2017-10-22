@@ -1,0 +1,26 @@
+Initial version of mywork
+Further modifications
+Yet modifying my work
+
+
+/***** Some git commands
+git init
+git add .
+git commit -m"commit message"
+git branch
+git checkout
+git merge
+git remote add http...
+git push origin master
+git push http.....
+git pull
+git clone
+
+
+
+master
+newBranch
+AnotherBranch
+
+*/
+
